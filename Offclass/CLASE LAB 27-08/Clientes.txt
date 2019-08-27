@@ -1,0 +1,8 @@
+Nombre: Julian
+Apellido: Sodo
+DNI: 42625001
+----------
+Nombre: Martin
+Apellido: Sodo
+DNI: 40857350
+----------
